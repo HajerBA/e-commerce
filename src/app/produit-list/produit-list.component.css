@@ -1,0 +1,21 @@
+.example-card {
+    max-width: 200px;
+  }
+  
+  .example-header-image {
+    background-image: url('../../assets/buffet.jpg');
+    background-size: cover;
+  }
+  .example-header-image2 {
+    background-image: url('../../assets/chaise.jpg');
+    background-size: cover;
+  }
+  .example-header-image3 {
+    background-image: url('../../assets/FAUTEUIL.jpg');
+    background-size: cover;
+  }
+  .classcard{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  }

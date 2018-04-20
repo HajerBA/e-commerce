@@ -1,0 +1,12 @@
+.maclass{
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 95px;
+}
+
+.logo{
+    width: 120px;
+    height: 120px;
+}
